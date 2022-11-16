@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello verden!";
+echo "Hello i luken! Sykt stili ikka sant!!";
